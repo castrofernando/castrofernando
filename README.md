@@ -1,7 +1,7 @@
 # Welcome to my profile! It's nice to see you here :satisfied:  
 
-Last years, i've been working in different kind of projects using different soft and hard skills in access control industry. 
-I'm a hardware and software developer passionate in learn new technologies. Below i share a macro information about my hard skills. Feel free to contact me:
+Hi!! I've been working in different kind of projects during 10 years using soft and hard skills at access control industry. These last two years I got some international experience working in a high performance shared storage project for broadcast.
+I'm a hardware and software developer passionate in learn new technologies. Below I share a macro information about my hard skills. Feel free to contact me:
 
 ### Software Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,bootstrap,cs,)](https://skillicons.dev)
